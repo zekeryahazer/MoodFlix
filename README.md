@@ -6,7 +6,7 @@ MoodFlix, **Google Gemini AI** ve **TMDB API** kullanarak, kullanıcının o ank
 
 | 🧠 Mood Analizi | 🎨 Stil Analizi | 🍿 AI Sonuçları |
 |:---:|:---:|:---:|
-| ![Mood](MoodFlix1.jpeg) | ![Style](MoodFlix2.jpeg) | ![Sonuç](MoodFlix3.jpeg) |
+| ![Mood](MoodFlix3.jpeg) | ![Style](MoodFlix1.jpeg) | ![Sonuç](MoodFlix2.jpeg) |
 
 ## ✨ Özellikler
 
